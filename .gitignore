@@ -1,0 +1,14 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore datasets if large (optional)
+# sentimentAnalysis.csv
