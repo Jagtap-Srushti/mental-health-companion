@@ -21,7 +21,7 @@ This project is a safe chatbot that:
 ## Installation & Running Locally
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/mental-health-companion.git
+git clone https://github.com/<Jagtap-Srushti>/mental-health-companion.git
 cd mental-health-companion
 
 # Install dependencies
