@@ -17,6 +17,23 @@ This project is a safe chatbot that:
 - Sidebar with helplines and mental health resources
 - Clear Chat option for new sessions
 - Dark theme UI for comfortable reading
+## ✨ Key Features in Action
+<p align="center">
+  <img src="assets/image1.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="assets/image2.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="assets/image3.png" width="90%">
+</p>
+
+<p align="center">
+  <img src="assets/image4.png" width="90%">
+</p>
+
 
 ## Installation & Running Locally
 ```bash
