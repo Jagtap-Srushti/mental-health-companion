@@ -154,8 +154,8 @@ st.markdown("<div class='subtitle'>Understand your feelings using Machine Learni
 # ===== Sidebar =====
 st.sidebar.title("📌 Resources & Support")
 with st.sidebar.expander("📞 Helplines"):
-    st.write("National Suicide Prevention Lifeline: **1-800-273-8255**")
-    st.write("Crisis Text Line: Text **'HELLO'** to **741741**")
+    st.write("India – KIRAN Mental Health Helpline: **1800-599-0019**")
+    st.write("iCALL Mental Health Helpline: **9152987821**")
     st.write("[🌍 More Resources](https://www.mentalhealth.gov/get-help/immediate-help)")
 st.sidebar.markdown("---")
 st.sidebar.subheader("🔐 Privacy Notice")
